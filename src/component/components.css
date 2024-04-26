@@ -1,0 +1,11 @@
+.btn-one{
+    width: 170px;
+    height: 30px;
+    background-color: rgb(82, 82, 239);
+    color: white;
+    /* border-radius: 55%; */
+    border-color: rgb(82, 82, 239);
+    font-size: 14px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
